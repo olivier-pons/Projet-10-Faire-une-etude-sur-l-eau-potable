@@ -13,10 +13,14 @@ Soft skills acquis :
 Commentaires de l'évaluateur
 Livrable
 
-Points forts :
+Points forts : Livrables très complets
 
-Axes d'amélioration :
+Axes d'amélioration : Attention à la lenteur de certaines visualisations et à bien justifier chaque choix de visualisation.
 
 Soutenance
 
-Remarques : OK
+Remarques :
+
+Olivier est très l'aise à l'oral et a pu répondre aux questions.
+
+Félicitations!
