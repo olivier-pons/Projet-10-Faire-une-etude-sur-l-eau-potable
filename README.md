@@ -1,5 +1,5 @@
 # Projet-10-Faire-une-etude-sur-l-eau-potable
-Dans ce projet il était question d'uiliser des requete sql afin de manipuler des données, etre capable de creer un dictionnaire de données, rediger des scripts sql simples pour aider à la décision.
+Dans ce projet il fallait utiliser powerbi pour creer un tableau de bord d'aide a la decision, pour une ONG, le but etait de determiné quel pays avait le plus besoin d'une aide pour develloper son reseau d'eau potable. 
 
 Compétences développées :
 - Création d'une blue print card
